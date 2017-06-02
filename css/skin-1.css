@@ -39,6 +39,10 @@
 #myNavbar li.active a {
     background-color: #0c426f;
 }
+.dez-separator.bg-primary.style-liner{
+	background-color: #f8242c;
+}
+
 /*Hex color :hover */
 
 .site-button:active,
