@@ -8686,5 +8686,7 @@ z-index:-1;
 background-color: #f2f2f2;
 }
 
-
+.footer-bottom a:visited{
+    color:#0c426f;
+}
 /******************************/
